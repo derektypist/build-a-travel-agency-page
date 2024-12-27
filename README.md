@@ -19,4 +19,4 @@ On [GitHub Pages](https://derektypist.github.io/build-a-travel-agency-page) at t
 ### Acknowledgements
 
 - [FreeCodeCamp](https://www.freecodecamp.org)
-- [Pinterest - London](https://uk.pinterest.com)
+- [Pinterest - London](https://uk.pinterest.com/derekthesec/london)
